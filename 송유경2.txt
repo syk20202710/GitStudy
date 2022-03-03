@@ -1,1 +1,11 @@
 바보
+
+
+[1회용]
+1. git init // 처음 디렉토리 1번만 사용
+2. git remote add origin {깃 주소}
+
+[ 꾸준히 ]
+1. git add -all
+2. git commit -m "{너가 쓰고 싶은 메세지}"
+3. git push origin main
